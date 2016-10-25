@@ -1,4 +1,4 @@
 # Summary
 
-* [¿Cómo trabajamos hoy?](manuscript/EEDS.md#comotrabajamoshoy)
-* [¿Cuán complejo es nuestro trabajo?](manuscript/EEDS.md#CuanComplejoEsNuestroTrabajo)
+* [¿Cómo trabajamos hoy?](EEDS.md#comotrabajamoshoy)
+* [¿Cuán complejo es nuestro trabajo?](EEDS.md#cuancomplejoesnuestrotrabajo)
