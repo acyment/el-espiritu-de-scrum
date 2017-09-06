@@ -228,22 +228,28 @@ Y hablando de ejercicio, corresponde enunciar el nombre que utilizamos en scrum 
 
 ### El Product Backlog, alimento del sprint
 La palabra _backlog_ podría traducirse como "lista de lo que me falta para…". Como tantas en scrum, confunde, porque da a entender que es imprescindible hacerlo completo para tener éxito. Pero recordemos que en scrum el éxito no está dado por _cumplir un plan_, sino más bien por maximizar _outcome_ minimizando _output_. El _Product Backlog_ es un _menú_, no un _plan_. En él se ve plasmada la estrategia del proyecto. El responsable de que exista en todo momento el _backlog_ que marque el mejor recorrido posible hacia la visión será obviamente el _Product Owner_.
+El _Product Backlog_ es simplemente una lista de lo que llamaremos, aunque sea confuso para nosotros los hispanohablantes, _PBIs_: _Product Backlog Items_. El _framework_ no prescribe cómo se materializan los _PBIs_. Alguno será lo que en software llamamos Caso de Uso, algún otro en la lista será una Historia o Relato de Usuario y unos cuantos tal vez sean meras servilletas garabateadas. El framework solamente describe dos características de los _PBIs_:
+- Cada vez que el equipo desarrolle un _PBI_ el producto habrá aumentado el valor percibido por los stakeholders o al menos hemos incrementado sustancialmente nuestro conocimiento
+- Los _PBIs_ se encuentran ordenados según el criterio que decida el Product Owner. Usualmente se utiliza como criterio para esto la secuencia que maximice la relación costo/beneficio, siempre que la misma respete dependencias y considere riesgos, tanto técnicos como funcionales.
 
-### Producto
+Y ahora la pregunta de rigor: ¿Para qué pide esto último el framework?
+El primer punto es la manera de poner en práctica el desarrollo o crecimiento orgánico del producto. Cada salto entre piedra y piedra nos acerca de manera consolidada a la visión. Su aceptación por parte del _Product Owner_ será binaria: brinda valor o no lo brinda. Que el PBI entregue valor a los stakeholders nos asegura que se ha crecido de manera tal que nada a quedado a medias: si hemos estimado mal el proyecto quedaremos bien parados (tendremos producto para entregar) y, más importante aún, sólo así recibiremos feedback útil de los stakeholders, dado que ellos tienen la perspectiva de de valor, del _outcome_. Un _PBI_ incompleto es aquel batalla que aún no se ha decidido y por lo tanto sería contraproducente tomar decisiones estratégicas basadas en puras especulaciones.
+El segundo punto (que los _PBIs_ tengan un orden, una prioridad) es simplemente la manera de hacer que el crecimiento orgánico juegue a nuestro favor. En el viejo paradigma, el Ford T, se hace completo o no se hace. En concreto, se hace todo lo que los stakeholders piden al comienzo del proyecto o hemos fracasamos. En scrum, como ya lo vimos al hablar de desarrollo orgánico, hacemos algo bastante bueno que, como dice el proverbio chino, es enemigo de lo perfecto. La lógica es simple: dado que admitimos que existe la posibilidad de que no lleguemos a desarrollar todo lo prometido, construiremos aquellas características prioritarias primero, de forma de maximizar el valor entregado a los stakeholders.
 
-Como vimos anteriormente, el desarrollo del producto se dividirá en dos perspectivas complementarias: la estrategia y la táctica.
+### Táctica y estrategia
+
+Las metáforas ayudan, direccionan y ofuscan, todo a la vez. La guerra, si bien violenta y cruel, es un evento profundamente transitado y estudiado por la humanidad. Algunas de nuestras metáforas más utiles provienen directamente de ese universo. Pensemos que tal vez, solamente tal vez, sea importante no olvidar la cantidad de sangre que viene incluida en una idea. Y ahora sí, a por la imagen. Apelemos a una vieja definición de _táctica_ y _estrategia_: _táctica_ es la mejor manera que encontramos de ganar una batalla y _estrategia_ es la mejor elección de batallas que decidimos en pos de ganar la guerra. Es decir, en términos de un producto o servicio, la _estrategia_ estará dada por qué características tendrá el producto y la _táctica_ por cómo se desarrollarán dichas características. Podríamos incluso hacer un paralelismo entre la _estrategia_ como pensamiento orientado al _outcome_ y la _táctica_ orientada al _output_. En scrum consideramos que ambos problemas son profundamente _complejos_. Por eso queremos encararlos de manera _empírica_, con ciclos cortos que aceleren el aprendizaje (o la equivocación, que es un poco lo mismo). El sprint consistirá entonces de un ciclo con foco en lo _estratégico_, poblado de pequeños ciclos más pequeños, dedicados más bien a una perspectiva _táctica_. O sea, un ciclo con muchos ciclos chiquitos adentro.![El sprint es un ciclo estrátegico, que incluye muchos ciclos pequeños de táctica](images/CicloGrandeCiclosChicos.png)
 
 ### Estrategia
 
-El ciclo de feedback estratégico será el Sprint o iteración. Durante el mismo el Equipo de Desarrollo procurará convertir el Backlog Comprometido en un incremento del producto que refleje los PBIs comprometidos. El Backlog Comprometido quedará _sellado_ durante la duración del Sprint. Esto es, no se podrán agregar, quitar o modificar PBIs del Backlog Comprometido durante la iteración ¿Cuál es la idea detrás del sellado? Sencillamente poder encauzar el caos estratégico. De esto se deduce que la duración del Sprint, si bien podrá variar de iteración a iteración, no podrá variar durante la ejecución del mismo. ¿Cuánto dura un Sprint? No se encuentra especificado en Scrum, por lo que cada equipo encontrará su propia cadencia, seguramente mediante prueba y error.
-
+El ciclo de feedback _estratégico_ será entonces el _sprint_. Durante el mismo el Equipo de Desarrollo procurará convertir el Backlog Comprometido en un incremento del producto que refleje los PBIs comprometidos. El Backlog Comprometido quedará _sellado_ durante la duración del Sprint. Esto es, no se podrán agregar, quitar o modificar PBIs del Backlog Comprometido durante la iteración ¿Cuál es la idea detrás del sellado? Sencillamente poder encauzar el caos estratégico. De esto se deduce que la duración del Sprint, si bien podrá variar de iteración a iteración, _no podrá variar durante la ejecución del mismo_.
 El ciclo estratégico comenzará en la reunión de Planificación Estratégica y concluirá en el Review o Revisión, prácticamente sobre el final de la iteración.
 
-### Planificación Estratégica
+#### Planificación Estratégica
 
 La reunión de planificación estratégica tiene como principal objetivo que el equipo de desarrollo se comprometa a la porción del backlog más prioritaria que quepa dentro de su capacidad estimada de trabajo para este Sprint.
 
-### Revisión
+#### Revisión
 
 La Reunión de Revisión tiene lugar sobre el final del Sprint. El objetivo principal de la misma será que el Product Owner decida si acepta o rechaza cada uno de los distintos PBIs que el equipo haya desarrollado.
 
@@ -251,11 +257,11 @@ La Reunión de Revisión tiene lugar sobre el final del Sprint. El objetivo prin
 
 El ciclo de feedback táctico será mucho más corto que el estratégico: ningún plan resiste el contacto con el enemigo. En la táctica se verá reflejado el _cómo_: las tareas que realizará el equipo de desarrollo durante el Sprint para construir el incremento del producto correspondiente al backlog comprometido.
 
-### Planificación Táctica
+#### Planificación Táctica
 
 Inmediatamente después de la reunión de planificación estratégica el equipo de desarrollo se reunirá para elaborar su plan inicial. El objetivo aquí es lograr un primer esbozo de la serie de tareas que serán necesarias para desarrollar los PBIs comprometidos.
 
-### Reunión Diaria de Replanificación Táctica
+#### Reunión Diaria de Replanificación Táctica
 
 La táctica nunca se sella: en cualquier momento del día el equipo tiene la potestad de actualizarla. Sin embargo, existe un momento bien definido en el cual el equipo de desarrollo se reúne con el único objetivo de inspeccionar y adaptar la táctica: durante el mismo se procederá a la asignación, definición y actualización del estado de las tareas que conforman el Sprint Backlog. Esta reunión suele llamarse Daily Meeting, Scrum diario, Standup Meeting entre otras variaciones y es la única que tiene una duración máxima ya definida en el framework: solamente 15 minutos.
 
@@ -263,7 +269,7 @@ La táctica nunca se sella: en cualquier momento del día el equipo tiene la pot
 
 En Scrum partimos de una premisa fundamental: encontrar el mejor proceso posible para que un equipo auto-organizado desarrolle un producto complejo es un proyecto complejo en si mismo. Por ende en Scrum aplicaremos las mismas ideas que utilizamos para desarrollar un producto para construir el mejor proceso posible.
 
-### Retrospectiva
+#### Retrospectiva
 
 La retrospectiva es el corazón que le da vida a un proyecto Scrum. Es el motor que nos empuja a vivir un proyecto persiguiendo lo que podemos llamar una útopia útil: _la perfección existe, es imposible de alcanzar y, sin embargo, todos los días intento estar más cerca_. Tal vez en este concepto esté la principal diferencia entre Scrum y muchas otras formas de trabajo. Es importante, por ende, entender que será en la retrospectiva cuando se decidirá si hemos podido o no poner en marcha esta filosofía de trabajo. La retrospectiva es no solo la reunión más importante del framework, sino que suele ser también la más díficil.
 
