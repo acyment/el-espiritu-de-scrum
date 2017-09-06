@@ -148,21 +148,24 @@ Para que un grupo de personas pueda autoorganizarse de forma cotidiana, cada int
 ### Product Owner
 
 Muchos equipos de desarrollo, sobre todo los que tienen poca experiencia, terminan demasiado enfocados en el _output_. Superados por las circunstancias, priorizan aquello más tangible y cercano. Echemos mano a un recurso obvio y facilmente abusable ¡Agreguemos un rol! Con ustedes, el Product Owner o dueño del producto. Un nombre, como tantos en scrum, no muy bien elegido. Pero es el que tenemos, así que mejor elijamos las batallas y avancemos. El Product Owner o PO tiene una única y gran responsabilidad: maximiza _outcome_, minimizando _output_. Ni más ni menos.
-
+Recurramos de nuevo a las metáforas, tan simplistas y abusables, pero tan necesarias. El PO puede ser visto como un director de orquesta. No toca ni el violín ni el trombón, pero ante el público es claramente el gran responsable de lo que suceda durante el concierto. Por algo recibe más aplausos o abucheos que el resto, ¿no?![El PO como director](img/DirectorDeOrquesta.png)
+El Product Owner es claramente un resabio de jerarquía que vive en scrum. Carece de toda autoridad sobre el equipo. No puede decidir quién toma una tarea, ni si alguien debe salir del equipo. Su única autoridad es sobre el producto. Este resabio nos muestra que scrum no es, ni mucho menos, el destino sino apenas un camino, una transición.
 
 ### Scrum Master
 
 Product Owner y equipo de desarrollo tienen sus ojos y su energía concentrados en una sola cosa: el producto. Y dado que no hemos dicho nada sobre cómo deben trabajar podemos afirmar que conforman un gran equipo _auto-gestionado_. Dado que ellos son quienes están día a día enfrentándose cara a cara con la realidad del proyecto, quién mejor para decidir el _proceso_ que ellos mismos. Si aceptamos que el proceso que necesita un equipo para desarrollar de manera óptima un producto complejo es complejo en si mismo, no podemos quedarnos en la noción industrial (¿Se acuerdan del viejo paradigma?) en la que un supervisor _decide_ desde fuera cómo debe trabajar el empleado. Eso está muy bien para martillar clavos, pero en el caso de un proyecto complejo, en el que no nos queda otra alternativa que apelar al lado más humano de los trabajadores, perderíamos potencial creativo y, sobre todo, compromiso con el resultado final si impusiésemos proceso.
 
-Pero la auto-gestión no es ninguna panacea per se. Es simplemente un llamado a gritos al caos. Y ya vimos lo interesante, pero también lo riesgoso que puede ser el caos. Necesitamos límites, pero queremos que esos límites sean auto-impuestos. Traigamos a escena a una tercer figura, que actúe de espejo tanto para el equipo de desarrollo como para el Product Owner, para recordarles los límites que nos impone Scrum, a fin ayudarlos de canalizar el caos y llevar a buen puerto un proyecto que necesita de altas dosis de creatividad. Traigamos a un ScrumMaster.
+Pero la auto-gestión no es ninguna panacea per se. Es simplemente un llamado a gritos al caos. Y ya vimos lo interesante, pero también lo riesgoso que puede ser el caos. Necesitamos límites, pero queremos que esos límites sean auto-impuestos. Traigamos a escena a una tercer figura, que actúe de espejo tanto para el equipo de desarrollo como para el _Product Owner_, para recordarles los límites que nos impone Sscrum, a fin ayudarlos de canalizar el caos y llevar a buen puerto un proyecto que necesita de altas dosis de creatividad. Traigamos a un ScrumMaster.
 
-El ScrumMaster, además de tener un nombre grandilocuente, es una figura poco tradicional en las organizaciones. El ScrumMaster es ni más ni menos que un espejo: es _responsable, desde una perspectiva de proceso, de que Product Owner y equipo de desarrollo optimicen y utilicen una manera de trabajar cada día mejor_. Para ello un ScrumMaster suele llevar a cabo tres labores básicas:
+El ScrumMaster, además de tener un nombre grandilocuente y confuso, es una figura poco tradicional en las organizaciones. El ScrumMaster es ni más ni menos que un espejo: es _responsable, desde una perspectiva de proceso, de que Product Owner y equipo de desarrollo trabajen de manera autónoma y fluida_. Para ello un ScrumMaster suele llevar a cabo cuatro labores básicas:
 
 - Facilitador: alguien que ayuda a un grupo de personas a tomar una decisión no trivial desde un punto de vista neutral
 
 - Coach: un evocador de excelencia - soplador de brasas, que supieron ser fuego y necesitan ser avivadas
 
 - Mentor: maestro que instruye desde una posición de igualdad y procura que el mentoreado siga su propio camino lo antes posible
+
+- Agente de cambio: inicia, conduce y ejercita el cambio de estructuras, políticas y sentidos comunes dentro del equipo y en el contexto que lo rodea
 
 El ScrumMaster suele llevar una sola herramienta en su bolso: la pregunta. Puede ser insidiosa, básica, generadora de silencios incómodos, cándida, retórica. Las hay de todo tipo y color y, a diferencia de las respuestas, son ellas las que mueven al mundo.
 
