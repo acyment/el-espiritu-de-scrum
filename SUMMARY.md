@@ -1,3 +1,3 @@
-# Summary
-
-* [Libro](EEDS.md)
+- [Scrum](chapters/1.md)
+- [Parte 2: Reglas simples, cambio trascendental](chapters/2.md)
+- [Parte 3: Pero en el mundo real...](chapters/3.md)

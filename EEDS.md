@@ -131,6 +131,8 @@ La mayoría de las organizaciones son como autopistas en hora pico. Si le pregun
 
 Como era de esperar a esta altura, Scrum propone una _estructura organizacional orgánica_. Al hablar de diseño dijimos que el enfoque mecánico prioriza eficiencia, mientras que el orgánico pone por delante el aprendizaje. Ahora que hablamos de estructura, el enfoque mecánico vuelve a estar basado en la búsqueda de _eficiencia a través de la especialización_, mientras que el orgánico priorizará la _autonomía del equipo_ a fin de maximizar su _adaptabilidad_. Scrum entonces fomentará fuertemente la autonomía, tanto en habilidades como en potestades.
 
+---
+
 # Parte 2: Reglas simples, cambio trascendental
 
 ## Resumen hasta ahora
@@ -278,6 +280,8 @@ Una mala retrospectiva nos deja parados en el viejo paradigma. Lamentablemente l
 Una buena retrospectiva consiste en inspeccionar y adaptar nuestra forma de trabajo. No bastará con llevar a cabo, por más sesudo que sea, un mero análisis de la situación actual. La retrospectiva debe ser generadora de propuestas concretas de mejora. Debe abrir y cerrar un ciclo de feedback sobre el proceso. Al comenzar la misma revisaremos los elementos del Process Backlog a los que los miembros del equipo Scrum se han comprometido y evaluaremos, entre todos, si el problema se ha eliminado o el potencial se ha multiplicado. Luego de esta revisión realizaremos la planificación del siguiente ciclo de feedback: previa priorización del Process Backlog, el equipo desglosará el Process Backlog Item en tareas que, al ser llevadas a cabo, mejorarán la forma de trabajo de alguna forma u otra.
 
 ¿Quiénes participan de la retrospectiva? Sobre el equipo de desarrollo y el ScrumMaster no hay muchas dudas, pero tal vez si las haya con el Product Owner. El mismo es por definición parte integrante del equipo Scrum y, por ende, partícipe del proceso. Sin embargo, es cierto que una buena porción de los proyectos en los que recién se comienza a utilizar Scrum el Product Owner es una figura de poder. Esto traerá dos consecuencias: su presencia inhibirá a los miembros del equipo de desarrollo y su ausencia lo coronará como gran chivo expiatorio. Recordemos aquí que Scrum es balance entre pragmatismo e idealismo. Si el equipo de desarrollo así lo decide, el Product Owner quedará excluído de las retrospectivas. Pero el ScrumMaster bien sabe que uno de sus principales objetivos a mediano plazo será trabajar con ambas partes para que el Product Owner pueda participar de esta reunión como un mero colega que, sencillamente, tiene otra perspectiva y responsabilidad en el proyecto.
+
+---
 
 # Parte 3: Pero en el mundo real...
 
